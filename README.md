@@ -2,4 +2,3 @@
 - ### I am 15 years old
 - ### I use After Effects, Photoshop, Pycharm
 - ### And I'm learning python right now.
-### Fan Fact
