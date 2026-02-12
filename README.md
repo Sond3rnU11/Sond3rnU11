@@ -3,7 +3,7 @@
 
 # Yelisey | Python & Visual Arts
 
-**15-year-old developer passionate about automation and motion design.**
+**15-year-old developer**
 
 ---
 
