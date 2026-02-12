@@ -1,4 +1,5 @@
-# Hi there, I'm Yelisey ![]([https://i.pinimg.com/originals/fb/b7/46/fbb74673d60358be733770b9bd3ba457.gif](https://i.pinimg.com/originals/2d/fe/4f/2dfe4f4e72a2bb40828090041bcbe8bb.gif)) 
+# Hi there, I'm Yelisey ![01a7b8ff7495c4a2583502aa9097d952](https://github.com/user-attachments/assets/74f5d002-98e4-49f6-ab48-52c523f546a1)
+
 - ### I am 15 years old
 - ### I use After Effects, Photoshop, Pycharm
 - ### And I'm learning python right now.
