@@ -1,7 +1,18 @@
-![01a7b8ff7495c4a2583502aa9097d952](https://github.com/user-attachments/assets/74f5d002-98e4-49f6-ab48-52c523f546a1)
 
 
-# Hi there, I'm Yelisey 
-- ### I am 15 years old
-- ### I use After Effects, Photoshop, Pycharm
-- ### And I'm learning python right now.
+
+# Yelisey | Python & Visual Arts
+
+**15-year-old developer passionate about automation and motion design.**
+
+---
+
+- 👨‍💻 **Python Enthusiast:** Building GUI applications and automation tools.
+- 🎬 **Motion Designer:** Proficient in After Effects and Photoshop for high-end editing.
+- 🛠 **Editor:** Using PyCharm to turn ideas into clean, functional code.
+
+*"Learning one script at a time."*
+
+[Check out my latest release: Sondeer v1.2 📥](https://github.com/Sond3rnU11/YouTube-Downloader-Sonder/releases)
+
+![1586bc3b18aff09d3c7c5dc472aa678c](https://github.com/user-attachments/assets/d13f0937-3d97-40d8-a8e2-a6af90fe27b7)
