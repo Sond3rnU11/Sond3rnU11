@@ -7,7 +7,7 @@
 
 ---
 
-- 👨‍💻 **Python Enthusiast:** Building GUI applications and automation tools.
+- 👨‍💻 **Python developer:** Building GUI applications.
 - 🎬 **Motion Designer:** Proficient in After Effects and Photoshop for high-end editing.
 - 🛠 **Editor:** Using PyCharm to turn ideas into clean, functional code.
 
