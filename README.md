@@ -11,7 +11,6 @@
 - 🎬 **Motion Designer:** Proficient in After Effects and Photoshop for high-end editing.
 - 🛠 **Editor:** Using PyCharm to turn ideas into clean, functional code.
 
-*"Learning one script at a time."*
 
 [Check out my latest release: Sondeer v1.2 📥](https://github.com/Sond3rnU11/YouTube-Downloader-Sonder/releases)
 
