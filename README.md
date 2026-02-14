@@ -15,4 +15,5 @@ creator **S0nder Downloader**.
 
 
 
-<img width="638" height="483" alt="Снимок экрана 2026-02-14 233748-no-bg-preview (carve photos)" src="https://github.com/user-attachments/assets/7a55407a-4c65-4a89-8cb9-aa508d47be84" />
+<img width="492" height="459" alt="Снимок экрана 2026-02-15 001619-edited-free (carve photos)" src="https://github.com/user-attachments/assets/4f5edd30-8fd0-4478-96e2-ae0366e6104f" />
+
