@@ -1,17 +1,18 @@
 
 
 
-# Yelisey | Python & Visual Arts
+**Elisey | Python Developer & Digital Creator**
 
-**15-year-old developer**
+I develop tools with a focus on UX and aesthetics.
+creator **S0nder Downloader**.
+ 
+*   **Stack:** Python (customtkinter, yt-dlp)
+*   **Creative:** Video Editing (After Effects), Graphic Design
+ 
+*Building tools that work. Simply.*
 
----
-
-- 👨‍💻 **Python developer:** Building GUI applications.
-- 🎬 **Motion Designer:** Proficient in After Effects and Photoshop for high-end editing.
-- 🛠 **Editor:** Using PyCharm to turn ideas into clean, functional code.
+[Check out my latest release: Sondeer v1.3 📥](https://github.com/Sond3rnU11/YouTube-Downloader-Sonder/releases)
 
 
-[Check out my latest release: Sondeer v1.2 📥](https://github.com/Sond3rnU11/YouTube-Downloader-Sonder/releases)
 
-![1586bc3b18aff09d3c7c5dc472aa678c](https://github.com/user-attachments/assets/d13f0937-3d97-40d8-a8e2-a6af90fe27b7)
+<img width="638" height="483" alt="Снимок экрана 2026-02-14 233748-no-bg-preview (carve photos)" src="https://github.com/user-attachments/assets/7a55407a-4c65-4a89-8cb9-aa508d47be84" />
