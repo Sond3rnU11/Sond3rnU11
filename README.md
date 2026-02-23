@@ -11,7 +11,7 @@ creator **S0nder Downloader**.
  
 *Building tools that work. Simply.*
 
-[Check out my latest release: Sondeer v1.3 📥](https://github.com/Sond3rnU11/YouTube-Downloader-Sonder/releases)
+[Check out my latest release: Sondeer v1.4 📥](https://github.com/Sond3rnU11/YouTube-Downloader-Sonder/releases)
 
 
 
